@@ -1,1 +1,1 @@
-Live demo denizekiz.com
+Live demo denizekiz.com.tr
